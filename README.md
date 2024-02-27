@@ -1,4 +1,4 @@
-ni# LEARNING-GIT
+# LEARNING-GIT
 ## *ALWAYS TRY TO LEARN NEW*
 ### Welcome to the world of learning
 <BR>
@@ -32,6 +32,7 @@ ni# LEARNING-GIT
 - PRIYANKA GUPTA 🙂
 - PANKAJ TRIPATHI 👊
 - AJAY SHUKLA 😰
+- ARPIT :fu:
 
   
 
@@ -63,6 +64,11 @@ For more Information go to this Link: [GDSC WOW](https://youtu.be/sDJtzVOB8Jo?si
  - bar
   - baz
    - boo
+
+     - [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 
 
 
